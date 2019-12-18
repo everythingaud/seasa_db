@@ -12,7 +12,7 @@ This is a simple starter to get you up and running for React projects. This is i
 
 ## Running
 
-Install dependencies: `$ npm install` or `$ yarn`
+Install dependencies: `$ npm install`
 
 Fire up a development server: `$ npm run dev`
 
